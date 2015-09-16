@@ -1,0 +1,16 @@
+1. should be kinda online shop
+2. Should have RWD implemented
+	 Reason -> the URL can be accessable from any device (Mobile to Desktop) irrespective of size.
+3. Should be user friendly interms of user experience
+4. Admin should be able to manage the site easily 
+	4.1 Can upload new image
+	4.2 Can remove image which he wants
+	4.3 Should be easy to set price for each product
+	4.4 should be scalable
+	4.5 Should have place for user comment when they select
+	4.6 User comment will be kinda discussion about the product query.
+	4.7 should have provision for online payment
+	4.8 Should also have place for add if require
+	
+5. Should be fast enought to render with given product list
+6. should have inteligent to fix the pixels for better performance
